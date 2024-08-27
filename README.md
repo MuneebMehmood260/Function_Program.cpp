@@ -38,6 +38,10 @@ void max(int a, int b)
 	cout<<"maximun number is "<<b;
 }
 
+**OUTPUT**
+
+![cpp 9 2 output](https://github.com/user-attachments/assets/eb8a82b6-1aa2-44a6-ad7b-58b2c6a9626d)
+
 **PROGRAM N0 9.3**
 
 #include<iostream>
