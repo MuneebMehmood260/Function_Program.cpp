@@ -64,6 +64,10 @@ void table(int num)
 	}
 }
 
+**OUTPUT**
+
+![cpp 9 3 output](https://github.com/user-attachments/assets/86247c47-d12f-4c89-a1d3-fa58ef093b59)
+
 **PROGRAM N0 9.4**
 
 #include<iostream>
@@ -85,6 +89,11 @@ void value(int n)
 	cout<<"The number before "<<n<<" is "<<p<<endl;
 	cout<<"The number after "<<n<<" is "<<s;
 }
+
+**OUTPUT**
+
+![cpp 9 4 output](https://github.com/user-attachments/assets/ec4f63f7-589a-488a-898c-96a4473b8106)
+
 
 **PROGRAM N0 9.5**
 
@@ -109,6 +118,10 @@ void factorial(int n)
 	}
 	cout<<"The factorial of "<<n<<" is "<<f;
 }
+
+**OUTPUT**
+
+![cpp 9 5 output](https://github.com/user-attachments/assets/8e426d6f-6a67-461a-815f-027228c1dd1f)
 
 **PROGRAM N0 9.6**
 
@@ -145,6 +158,10 @@ int main()
 	num_chk(n);
 	return 0;
 }
+
+**OUTPUT**
+
+![cpp 9 6 output](https://github.com/user-attachments/assets/fb17f411-18f6-439b-9057-5cb4652b6b7c)
 
 **PROGRAM N0 9.7**
 
@@ -187,6 +204,10 @@ void cal(int a,int b, char c)
 	}
 }
 
+**OUTPUT**
+
+![cpp 9 7 output](https://github.com/user-attachments/assets/05999d1a-ec87-455e-8a3b-4a2abcee5732)
+
 **PROGRAM N0 9.8**
 
 #include<iostream>
@@ -214,6 +235,10 @@ void shape(int n, char c)
 	}
 }
 
+**OUTPUT**
+
+![cpp 9 8 output](https://github.com/user-attachments/assets/bab2d4dc-1511-42b6-b96c-ef9dc7f3b714)
+
 **PROGRAM N0 9.9**
 
 #include<iostream>
@@ -238,6 +263,10 @@ void swap(int &x, char &y)
 	x=y;
 	y=temp;
 }
+
+**OUTPUT**
+
+![cpp 9 9 output](https://github.com/user-attachments/assets/2f9abb46-a420-4027-b52d-51db7c1be20a)
 
 **PROGRAM N0 9.10**
 
@@ -265,6 +294,10 @@ char grade(int x)
 	else
 	return 'F';
 }
+
+**OUTPUT**
+
+![cpp 9 10 output](https://github.com/user-attachments/assets/b7ccb637-2525-473e-b62e-7616a78dd96b)
 
 **PROGRAM N0 9.11**
 
@@ -294,6 +327,10 @@ int mul(int a,int b)
 	return 0;
 }
 
+**OUTPUT**
+
+![cpp 9 11 output](https://github.com/user-attachments/assets/20543350-9c86-43cb-a8a1-774960834b7d)
+
 **PROGRAM N0 9.12**
 
 #include<iostream>
@@ -315,6 +352,10 @@ float area(int b,int h)
 	ar=0.5*b*h;
 	return ar;
 }
+
+**OUTPUT**
+
+![cpp 9 12 output](https://github.com/user-attachments/assets/8266554b-58aa-4629-9a2d-73f5a188f611)
 
 **PROGRAM N0 9.13**
 
@@ -342,6 +383,10 @@ int cube(int n)
 	return n*n*n;
 }
 
+**OUTPUT**
+
+![cpp 9 13 output](https://github.com/user-attachments/assets/e96bfbb8-b9d2-47bd-9de3-139c8b02e3e1)
+
 **PROGRAM N0 9.14**
 
 #include<iostream>
@@ -367,6 +412,10 @@ int gcd(int x,int y)
 	g=i;
 	return g;
 }
+
+**OUTPUT**
+
+![cpp 9 14 output](https://github.com/user-attachments/assets/c4af5ccd-6044-4bc0-928e-4010acf67fec)
 
 **PROGRAM N0 9.15**
 
@@ -398,6 +447,10 @@ unsigned long fact(int n)
     return prod;
 }
 
+**OUTPUT**
+
+![cpp 9 15 output](https://github.com/user-attachments/assets/8c31af5d-7d05-4c28-9dfa-4a31faefcb47)
+
 **PROGRAM N0 9.16**
 
 #include<iostream>
@@ -418,6 +471,10 @@ void fun()
 	g=g*2;
 }
 
+**OUTPUT**
+
+![cpp 9 16 output](https://github.com/user-attachments/assets/1ca0f3b5-9b08-4d33-b51e-e85a7aa1479b)
+
 **PROGRAM N0 9.17**
 
 #include<iostream>
@@ -436,3 +493,7 @@ void fun()
 	n++;
 	cout<<"Value of n= "<<n<<endl;
 }
+
+**OUTPUT**
+
+![cpp 9 17 output](https://github.com/user-attachments/assets/5d1a6f9d-f2ce-4d1d-b8c4-fb9d37186ef9)
